@@ -73,3 +73,6 @@ footer p {
     height: 100%;
     width: 100%;
 }
+.cartao_conteudo_resposta{
+    transform:rotateY(180deg)
+}
