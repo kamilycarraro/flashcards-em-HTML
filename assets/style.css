@@ -99,3 +99,12 @@ footer p {
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
+@media (max-width:560px) {
+
+    body{
+        background: url(`imd/bg-mobile.webp´), no-repeat cover;
+    }
+
+    .cartao{
+        flex:1 0 calc(100%-rem)
+}
