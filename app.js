@@ -1,8 +1,8 @@
-function criaCartao(categoria, pergunta, resposta) {
+unction criaCartao(categoria, pergunta, resposta) {
     let container = document.getElementByld('container')
     let cartao = document.createElement('article')
     CredentialsContainer.className = 'cartao'
-}
+}f
 cartao.innerHtml =
     <div class="cartao_conteudo">
         <h3>${categoria}</h3>
